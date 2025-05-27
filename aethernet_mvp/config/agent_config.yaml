@@ -1,0 +1,3 @@
+agent_id: "agent-001"
+device: "cpu"
+model: "gpt2"
