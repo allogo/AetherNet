@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-requests
-pydantic
-pyyaml
-transformers
-torch
-grpcio
